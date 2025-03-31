@@ -1,0 +1,16 @@
+https://chuoconnect.netlify.app/
+
+https://chuoconnect.netlify.app/auth/welcome/
+https://chuoconnect.netlify.app/auth/login/
+https://chuoconnect.netlify.app/auth/register/
+https://chuoconnect.netlify.app/auth/verify/
+https://chuoconnect.netlify.app/auth/forgot-password/
+https://chuoconnect.netlify.app/auth/reset-password/
+
+https://chuoconnect.netlify.app/auth/app/
+https://chuoconnect.netlify.app/auth/group/
+https://chuoconnect.netlify.app/auth/profile/
+https://chuoconnect.netlify.app/auth/contact/
+https://chuoconnect.netlify.app/auth/settings/
+
+https://chuoconnect.netlify.app/docs/tnc/
